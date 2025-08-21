@@ -16,19 +16,23 @@ sidebar-category:
     category_name: "project"
     children: 
       - title: "OTT선택 테스트"
-        url: /project/choose_ott
+        url: /choose_ott
+        category: "choose_ott"
       - title: "식물 분류"
-        url: /project/green
+        url: /green
+        category: "green"
 
   - title: "STUDY"
     use: true 
-    url: /study/
+    url: /study
     category_name: "study"
     children: 
       - title: "jekyll"
-        url: /study/jekyll
+        url: /jekyll
+        category: "jekyll"
       - title: "programming"
-        url: /study/programming
+        url: /programming
+        category: "programming"
         
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
