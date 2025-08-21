@@ -342,6 +342,9 @@ defaults:
       toc_label: 목차
       toc_icon: "fa-regular fa-font-awesome"
 
+      category_list: true
+      tag_list: true
+
       
 date_format: "%Y-%m-%d"
 
