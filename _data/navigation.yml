@@ -9,7 +9,7 @@ main:
   - title: "Profile"
     url: /profile/
 
-docs:
+sidebar-category:
   - title: "PROJECT"
     use: true 
     url: /project/
@@ -22,11 +22,13 @@ docs:
 
   - title: "STUDY"
     use: true 
+    url: /study/
+    category_name: "study"
     children: 
       - title: "jekyll"
-        url: /STUDY/jekyll
+        url: /study/jekyll
       - title: "programming"
-        url: /STUDY/programming
+        url: /study/programming
         
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/

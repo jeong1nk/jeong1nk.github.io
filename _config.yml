@@ -337,7 +337,7 @@ defaults:
 
       sidebar_main: true
       sidebar:
-          nav: "docs"
+          nav: "sidebar-category"
       toc_sticky: true
       toc_label: 목차
       toc_icon: "fa-regular fa-font-awesome"
