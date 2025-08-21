@@ -15,10 +15,10 @@ sidebar-category:
     url: /project/
     category_name: "project"
     children: 
-      - title: "OTT선택 테스트"
+      - title: "📂 OTT선택 테스트"
         url: /choose_ott
         category: "choose_ott"
-      - title: "식물 분류"
+      - title: "📂 식물 분류"
         url: /green
         category: "green"
 
@@ -27,10 +27,10 @@ sidebar-category:
     url: /study
     category_name: "study"
     children: 
-      - title: "jekyll"
+      - title: "📂 jekyll"
         url: /jekyll
         category: "jekyll"
-      - title: "programming"
+      - title: "📂 programming"
         url: /programming
         category: "programming"
         
