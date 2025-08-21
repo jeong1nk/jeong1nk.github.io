@@ -10,7 +10,7 @@ main:
     url: /profile/
 
 sidebar-category:
-  - title: "PROJECT"
+  - title: "💻PROJECT"
     use: true 
     url: /project/
     category_name: "project"
@@ -22,7 +22,7 @@ sidebar-category:
         url: /green
         category: "green"
 
-  - title: "STUDY"
+  - title: "📖STUDY"
     use: true 
     url: /study
     category_name: "study"
