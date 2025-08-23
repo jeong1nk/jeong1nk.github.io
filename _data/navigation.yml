@@ -23,7 +23,7 @@ sidebar-category:
         category: "green"
 
   - title: "📖STUDY"
-    use: true 
+    use: true  
     url: /study
     category_name: "study"
     children: 
