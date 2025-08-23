@@ -27,12 +27,16 @@ sidebar-category:
     url: /study
     category_name: "study"
     children: 
+      - title: "📂 Git"
+        url: /git
+        category: "git"
       - title: "📂 jekyll"
         url: /jekyll
         category: "jekyll"
       - title: "📂 programming"
         url: /programming
         category: "programming"
+
         
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
