@@ -8,6 +8,8 @@ main:
     url: /search/
   - title: "Profile"
     url: /profile/
+  - title: "Github"
+    url: https://github.com/jeong1nk
 
 sidebar-category:
   - title: "💻PROJECT"
