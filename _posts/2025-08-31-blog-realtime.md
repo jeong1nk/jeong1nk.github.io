@@ -31,21 +31,22 @@ excerpt: "깃허브 블로그 업데이트 시 실시간으로 확인하기 위�
 
 [https://www.ruby-lang.org/ko/documentation/installation/](https://www.ruby-lang.org/ko/documentation/installation/)
 
-루비 홈페이지에 접속해 루비를 다운로드 하고 설치한다.
+루비 홈페이지에 접속해 루비를 다운로드 하고 설치한다.<br>
 
 ![2025-08-31-210957]({{site.url}}/images/2025-08-31-blog-realtime/2025-08-31-210957.png)
 
-나는 윈도우를 이용중이고, 인스톨러가 편하기 때문에 아래로 쭉 내리면 있는 인스톨러로 설치하려고 한다.
+나는 윈도우를 이용중이고, 인스톨러가 편하기 때문에 아래로 쭉 내리면 있는 인스톨러로 설치하려고 한다.<br>
 
 ![2025-08-31-211210]({{site.url}}/images/2025-08-31-blog-realtime/2025-08-31-211210.png)
 
 
-Installer를 누르면 해당 페이지로 이동하는데 다운로드를 누른 뒤
+Installer를 누르면 해당 페이지로 이동하는데 다운로드를 누른 뒤<br>
 
 ![2025-08-31-211255]({{site.url}}/images/2025-08-31-blog-realtime/2025-08-31-211255.png)
 
 
-WITH DEVKIT 목록에 있는 파일을 받아 설치하면 된다.<br><br>
+WITH DEVKIT 목록에 있는 파일 중 하나를 받아 설치하면 된다.<br>
+나는 `Ruby+Devkit 3.4.5-1 (x64)`를 설치했다.<br>
 설치가 끝나고 Finish를 누르면 아래와 같은 창이 뜬다.<br>
 
 ![2025-08-31-211435]({{site.url}}/images/2025-08-31-blog-realtime/2025-08-31-211435.png)
