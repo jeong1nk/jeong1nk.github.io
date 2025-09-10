@@ -11,11 +11,9 @@ excerpt: "깃허브 블로그 업데이트 시 실시간으로 확인하기 위�
 그래서 실시간으로 수정한 부분을 확인할 방법이 없나 찾아보다 알게된 정보를 정리해보려 한다.<br>
 
 
-* * *
-
 ## 0. 안내페이지 확인
 <br>
-먼저 minimal-mistakes 테마의 경우 jekyllrb를 사용했기 때문에, [https://jekyllrb.com/docs/](https://jekyllrb.com/docs/) 사이트에서 Quickstart를 확인한다.
+먼저 minimal-mistakes 테마의 경우 jekyllrb를 사용했기 때문에, 🔗[https://jekyllrb.com/docs/](https://jekyllrb.com/docs/) 사이트에서 Quickstart를 확인한다.
 
 ![2025-08-31-210054]({{site.url}}/images/2025-08-31-blog-realtime/2025-08-31-210054.png)
 
@@ -29,7 +27,7 @@ excerpt: "깃허브 블로그 업데이트 시 실시간으로 확인하기 위�
 
 ## 1. Ruby(루비) 설치
 <br>
-[https://www.ruby-lang.org/ko/documentation/installation/](https://www.ruby-lang.org/ko/documentation/installation/)<br>
+🔗[https://www.ruby-lang.org/ko/documentation/installation/](https://www.ruby-lang.org/ko/documentation/installation/)<br>
 루비 홈페이지에 접속해 루비를 다운로드 하고 설치한다.<br>
 
 ![2025-08-31-210957]({{site.url}}/images/2025-08-31-blog-realtime/2025-08-31-210957.png)
@@ -72,7 +70,7 @@ jekyll 설치가 끝나면 bundler을 설치해야한다.<br>
 
 ## 4. 플러그인 설치
 <br>
-[https://mmistakes.github.io/minimal-mistakes/docs/installation/](https://mmistakes.github.io/minimal-mistakes/docs/installation/)<br>
+🔗[https://mmistakes.github.io/minimal-mistakes/docs/installation/](https://mmistakes.github.io/minimal-mistakes/docs/installation/)<br>
 minimal-mistakes의 installation 페이지를 보면 플러그인 설치가 필요하다.<br>
 
 먼저 내 깃헙 블로그 파일들이 있는 경로로 이동한다.<br>
@@ -100,8 +98,9 @@ minimal-mistakes의 installation 페이지를 보면 플러그인 설치가 필�
 > `bundle add webrick`을 입력해 설치한 뒤 다시 실행해보자.<br>
 
 ## 주의할 점
--  _config.yml 파일을 수정했을 때는 서버를 껐다 켜야한다.<br>
-- disqus 등의 댓글 기능은 사용할 수 없다.<br>
+※  _config.yml 파일을 수정했을 때는 서버를 껐다 켜야한다.<br>
+※ disqus 등의 댓글 기능은 사용할 수 없다.<br>
+
 
 ## 마무리
 이제 게시글 수정사항을 실시간으로 확인할 수 있다!<br>
