@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "[Git] 커밋 메세지 규칙"
-categories: Git
+categories: git
 tag: [minimal-mistakes, blog, Git]
 toc: true
 excerpt: "프로젝트의 필수요소인 커밋 메세지 규칙 정리"

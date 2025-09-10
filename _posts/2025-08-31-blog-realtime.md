@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "[Git] 깃헙 블로그 실시간 업데이트 확인"
-categories: Git
+categories: git
 tag: [minimal-mistakes, blog, Git]
 toc: true
 excerpt: "깃허브 블로그 업데이트 시 실시간으로 확인하기 위한 설정"
