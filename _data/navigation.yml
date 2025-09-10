@@ -32,12 +32,18 @@ sidebar-category:
       - title: "📂 Git"
         url: /git
         category: "git"
-      - title: "📂 jekyll"
+      - title: "📂 Jekyll"
         url: /jekyll
         category: "jekyll"
-      - title: "📂 programming"
-        url: /programming
-        category: "programming"
+      - title: "📂 HTML"
+        url: /html
+        category: "html"
+      - title: "📂 CSS"
+        url: /css
+        category: "css"
+      - title: "📂 JavaScript"
+        url: /JavaScript
+        category: "JavaScript"
 
         
   # - title: "About"
