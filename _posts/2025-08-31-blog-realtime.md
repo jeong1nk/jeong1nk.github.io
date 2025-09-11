@@ -13,7 +13,7 @@ excerpt: "깃허브 블로그 업데이트 시 실시간으로 확인하기 위�
 
 ## 0. 안내페이지 확인
 <br>
-먼저 minimal-mistakes 테마의 경우 jekyllrb를 사용했기 때문에, 🔗[https://jekyllrb.com/docs/](https://jekyllrb.com/docs/) 사이트에서 Quickstart를 확인한다.
+먼저 minimal-mistakes 테마의 경우 jekylld을 사용했기 때문에, 🔗[https://jekyllrb.com/docs/](https://jekyllrb.com/docs/) 사이트에서 Quickstart를 확인한다.
 
 ![2025-08-31-210054]({{site.url}}/images/2025-08-31-blog-realtime/2025-08-31-210054.png)
 
