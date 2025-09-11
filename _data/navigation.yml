@@ -42,9 +42,13 @@ sidebar-category:
         url: /css
         category: "css"
       - title: "📂 JavaScript"
-        url: /JavaScript
-        category: "JavaScript"
+        url: /javascript
+        category: "javascript"
 
+  - title: "⚙️CS"
+    use: true  
+    url: /cs
+    category_name: "cs"
         
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
