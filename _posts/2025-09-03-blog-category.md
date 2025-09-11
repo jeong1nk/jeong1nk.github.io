@@ -100,7 +100,7 @@ en: &DEFAULT_EN
 **[✅]** Jekyll 테마에서 핵심적인 구성요소 파일들이 모여있는 폴더<br>
 {: .notice}
 
-재사용 가능한 HTML 조각들이 모여 있는 폴더이다.
+재사용 가능한 HTML 조각들이 모여 있는 폴더이다.<br>
 head, footer, category-list 등 많은 파일들이 모여있다!
 
 ~~~
