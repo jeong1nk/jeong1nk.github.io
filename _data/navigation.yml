@@ -49,7 +49,15 @@ sidebar-category:
     use: true  
     url: /cs
     category_name: "cs"
-        
+  
+  - title: "🧵ETC"
+    use: true 
+    url: /etc/
+    category_name: "etc"
+    children: 
+      - title: "📂 기록"
+        url: /memo
+        category: "memo"
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
