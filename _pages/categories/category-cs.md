@@ -1,12 +1,15 @@
 ---
-title: "cs"
+title: "cs: CS관련 공부 공간"
 layout: archive
-permalink: categories/cs
+permalink: /cs
+
 author_profile: true
 sidebar_main: true
 ---
 
 
 
-{% assign posts = site.categories.blog %}
+cs 관련 설명입니다.
+
+{% assign posts = site.categories.cs %}
 {% for post in posts %} {% include archive-single.html type=page.entries_layout %} {% endfor %}

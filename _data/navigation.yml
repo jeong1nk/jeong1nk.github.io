@@ -18,10 +18,10 @@ sidebar-category:
     category_name: "project"
     children: 
       - title: "📂 OTT선택 테스트"
-        url: /choose_ott
+        url: project/choose_ott
         category: "choose_ott"
       - title: "📂 식물 분류"
-        url: /green
+        url: project/green
         category: "green"
 
   - title: "📖STUDY"
@@ -30,24 +30,24 @@ sidebar-category:
     category_name: "study"
     children: 
       - title: "📂 Git"
-        url: /git
+        url: study/git
         category: "git"
       - title: "📂 Jekyll"
-        url: /jekyll
+        url: study/jekyll
         category: "jekyll"
       - title: "📂 HTML"
-        url: /html
+        url: study/html
         category: "html"
       - title: "📂 CSS"
-        url: /css
+        url: study/css
         category: "css"
       - title: "📂 JavaScript"
-        url: /javascript
+        url: study/javascript
         category: "javascript"
 
   - title: "⚙️CS"
     use: true  
-    url: /cs
+    url: /cs/
     category_name: "cs"
   
   - title: "🧵ETC"
@@ -56,7 +56,7 @@ sidebar-category:
     category_name: "etc"
     children: 
       - title: "📂 기록"
-        url: /memo
+        url: etc/memo
         category: "memo"
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/

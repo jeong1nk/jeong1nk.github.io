@@ -73,9 +73,9 @@ $max-width: $x-large !default;
 
 그러면 아래와 같이 영역이 늘어난다.
 
-![2025-09-14-052032]({{site.url}}/images/2025-09-14-blog-layout/2025-09-14-052032.png)
+![2025-09-14-052032]({{site.url}}/images/2025-09-14-blog-layout/2025-09-14-052032.png){: .align-center}{:style="border:1px"}
 
-![2025-09-14-052203]({{site.url}}/images/2025-09-14-blog-layout/2025-09-14-052203.png)
+![2025-09-14-052203]({{site.url}}/images/2025-09-14-blog-layout/2025-09-14-052203.png){: .align-center}{:style="border:1px"}
 
 
 늘어난 것이 확연히 보인다!
