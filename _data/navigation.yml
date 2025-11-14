@@ -14,7 +14,7 @@ main:
 sidebar-category:
   - title: "💻PROJECT"
     use: true 
-    url: /project/
+    url: /project
     category_name: "project"
     children: 
       - title: "📂 자차"
