@@ -17,12 +17,10 @@ sidebar-category:
     url: /project/
     category_name: "project"
     children: 
-      - title: "📂 OTT선택 테스트"
-        url: project/choose_ott
-        category: "choose_ott"
-      - title: "📂 식물 분류"
-        url: project/green
-        category: "green"
+      - title: "📂 자차"
+        url: project/findMyCar
+        category: "findMyCar"
+
 
   - title: "📖STUDY"
     use: true  
