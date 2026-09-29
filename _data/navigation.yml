@@ -26,7 +26,9 @@ sidebar-category:
     use: true  
     url: /study
     category_name: "study"
-    children: 
+    children:
+      - title: "📂 SQL"
+        url: study/sql
       - title: "📂 Git"
         url: study/git
         category: "git"
@@ -36,8 +38,6 @@ sidebar-category:
       - title: "📂 HTML"
         url: study/html
         category: "html"
-      - title: "📂 CSS"
-        url: study/css
         category: "css"
       - title: "📂 JavaScript"
         url: study/javascript
