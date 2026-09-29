@@ -27,7 +27,7 @@ sidebar-category:
     url: /study
     category_name: "study"
     children:
-      - title: "📂 SQL"
+      - title: "📂 sql"
         url: study/sql
       - title: "📂 Git"
         url: study/git
