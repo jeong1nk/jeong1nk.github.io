@@ -1,7 +1,7 @@
 ---
-title: "css"
-layout: archive
-permalink: study/css
+title: "sql"
+layout: arsqlchive
+permalink: study/sql
 author_profile: true
 sidebar_main: true
 types: posts
@@ -10,7 +10,7 @@ sidebar:
   enabled: true
 ---
 
-{% assign posts = site.categories['css']%}
+{% assign posts = site.categories['sql']%}
 {% for post in posts %}
   {% include archive-single.html type=page.entries_layout %}
 {% endfor %}
